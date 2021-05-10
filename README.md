@@ -1,7 +1,7 @@
 # ElasticSearch vs Lucene vs Solr 
-    You may think that what these names actually refer to and why they are used? 
+You may think that what these names actually refer to and why they are used? 
 , which is the best among them? All your questions will be cleared here. Let dive into it. 
-The above-mentioned ElasticSearch, Lucene and Solr are **(full-text search engines)[https://en.wikipedia.org/wiki/Full-text_search]**.
+The above-mentioned ElasticSearch, Lucene and Solr are **[full-text search engines](https://en.wikipedia.org/wiki/Full-text_search)**.
 ### what is full_text search?
 In short, full-text search refers to techniques for searching a single computer-stored document or a collection in a full-text database.
 
