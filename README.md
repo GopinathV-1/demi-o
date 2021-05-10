@@ -49,4 +49,9 @@ The notable advantages of Elasticseach engine are,
 * Elasticsearch comes with a wide set of features.
 * The Elastic Stack simplifies data ingest, visualization, and reporting.
 
-
+#### References
+http://www.lucenetutorial.com/basic-concepts.html
+https://www.theserverside.com/definition/Apache-Solr
+https://www.elastic.co/what-is/elasticsearch
+https://www.hcltech.com/blogs/elasticsearch-vs-solr
+https://anytxt.net/how-to-choose-a-full-text-search-engine/
