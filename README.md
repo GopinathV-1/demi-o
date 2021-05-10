@@ -19,12 +19,14 @@ Lucene is an open-source search engine fully developed in java. It searches by i
 Search speed is high. It is an API that can be easily used to add search functionality to
 your application. Simple API provides powerful features and high scalable performances. It was
 developed by Apache Software Foundation.
+![lucene.png](pictures/lucene.png)
 
 ## Solr 
 Solr is an open-source search platform developed in java. It performs operations like
 Indexing, Querying, Mapping, Ranking the outcome. It uses the Lucene Java search library at
 its core for full-text indexing and search. It also searches by index. It was
 developed by Apache Software Foundation.
+![solr.png](pictures/solr.png)
 
 ## Elasticsearch
 Elasticsearch is a distributed, free and open search and analytics engine for all types of
@@ -34,6 +36,7 @@ search, enterprise search, many more. Logstash, one of the core products of the 
 is used to aggregate and process data and send it to Elasticsearch. Kibana is a data 
 visualization and management tool for Elasticsearch that provides real-time histograms, line 
 graphs, pie charts, and maps. 
+![elasticsearch.png](pictures/elasticsearch.png)
 
 ## Summary 
 In a nutshell, When we compare all three search engines both Elacticsearch and Solr
