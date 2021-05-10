@@ -22,7 +22,7 @@ developed by Apache Software Foundation.
 
 
         
-        ![lucene.png](pictures/lucene.png)
+   ![lucene.png](pictures/lucene.png)
 
 ## Solr 
 Solr is an open-source search platform developed in java. It performs operations like
@@ -32,7 +32,7 @@ developed by Apache Software Foundation.
 
 
 
-        ![solr.png](pictures/solr.png)
+   ![solr.png](pictures/solr.png)
 
 ## Elasticsearch
 Elasticsearch is a distributed, free and open search and analytics engine for all types of
@@ -45,8 +45,7 @@ graphs, pie charts, and maps.
 
 
 
-
-         ![elasticsearch.png](pictures/elasticsearch.png)
+   ![elasticsearch.png](pictures/elasticsearch.png)
 
 ## Summary 
 In a nutshell, When we compare all three search engines both Elacticsearch and Solr
@@ -64,7 +63,11 @@ The notable advantages of Elasticseach engine are,
 
 #### References
 http://www.lucenetutorial.com/basic-concepts.html
+
 https://www.theserverside.com/definition/Apache-Solr
+
 https://www.elastic.co/what-is/elasticsearch
+
 https://www.hcltech.com/blogs/elasticsearch-vs-solr
+
 https://anytxt.net/how-to-choose-a-full-text-search-engine/
